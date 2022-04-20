@@ -4,8 +4,7 @@
 
 
 
-**What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
-**
+**What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?**
 
 
 **How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?**
