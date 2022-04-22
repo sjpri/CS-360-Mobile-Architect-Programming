@@ -14,10 +14,12 @@
 
 **How did you test to ensure your code was functional? Why is this process important and what did it reveal?**
 
-  Testing was done as the app was developed, each time a new feature was implemented the application was run on the Android Emulator and testing was perfomed. 
+  Testing was done as the app was developed, each time a new feature was implemented the application was run on the Android Emulator and testing was perfomed. The testing process is crucial in ensuring the application behaves as expected and improves user experience. Perfomrming tests as I coded allow =ed me to catch up on bugs and coding mistakes I commited as I wrote them, making fixing these issues easier because the program as recent. 
 
 **Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?**
 
-
+  When looking at the finalized application, I did not get the oucome I had designed, I was hoping the application would have additional features that would allow the user to utilize the device's built-in camera to scan bar codes on the products and allow additing items to the inventory that way. The ability to filter through different item categories was initially in my design plan, but I was not able to integrate the feature by the delivery deadline. Overall, I am proud of how the application came out given the limited amount of time I had to learn the subjects from the course and develop the application.
 
 **In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?**
+
+  The application's ability to integrate with SQLite databases was my biggest concerns prior to starting the development process, while looking at the mobile application, the fact the application's interface successfully communicates with the databases demonstrates my skills in getting the assignemnt done even if it is intimidating and unknown, the experience provided by this application is inavuluable. 
